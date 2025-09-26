@@ -1,0 +1,6 @@
+pip install requests
+pip install langchain
+pip install langchain-huggingface
+# for google colab 
+! pip install -q langchain-huggingface langchain-core langchain_community requests duckduckgo-search
+! pip install -U ddgs
