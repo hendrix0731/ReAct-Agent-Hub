@@ -17,16 +17,17 @@ This project demonstrates how to combine multiple tools into a single conversati
 ## 🛠️ Installation
 
 Clone this repository and install dependencies:
+go through the requirement.txt file first 
 
 ```bash
-git clone https://github.com/your-username/My_AIAgent.git
+git clone https://github.com/hendrix0731/My_AIAgent.git
 cd My_AIAgent
 pip install -r requirements.txt
 ```
 
-or install directly:
+or install directly for colab:
 ```bash
-pip install langchain-huggingface langchain-core langchain_community requests duckduckgo-search ddgs
+! pip install langchain-huggingface langchain-core langchain_community requests duckduckgo-search ddgs
 ```
 
 ---
