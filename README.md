@@ -1,4 +1,4 @@
-# ReAct-Agent-Hub �
+# ReAct-Agent �
 
 An intelligent AI Agent powered by **LangChain** and **HuggingFace LLMs**, enhanced with real-time tools for **web search** and **weather information**.  
 This project demonstrates how to combine multiple tools into a single conversational AI using the **ReAct Agent architecture**.
